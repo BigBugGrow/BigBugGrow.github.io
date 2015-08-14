@@ -5,7 +5,7 @@
   <subtitle><![CDATA[Be Smart. Be Generous. Be Thoughtful.]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://www.dongan.me//"/>
-  <updated>2015-08-10T10:51:14.000Z</updated>
+  <updated>2015-08-14T14:17:06.000Z</updated>
   <id>http://www.dongan.me//</id>
   
   <author>
@@ -14,6 +14,49 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[大二这一年]]></title>
+    <link href="http://www.dongan.me/2015/08/14/%E5%A4%A7%E4%BA%8C%E8%BF%99%E4%B8%80%E5%B9%B4/"/>
+    <id>http://www.dongan.me/2015/08/14/大二这一年/</id>
+    <published>2015-08-14T14:15:30.000Z</published>
+    <updated>2015-08-14T14:17:06.000Z</updated>
+    <content type="html"><![CDATA[<p>##写在前面<br>似乎在每一个时间节点上，都想用文字记录点什么，证明这段岁月没有荒废,给自己一个交代。但尽管努力回顾，也发现并没有惊艳了岁月，笑，平凡而又平常。<br>为后来者，提供一些参考。这个世界所指向的趋势是无序，你的积累和整理，是对这个世界有益的贡献。</p>
+<p>##一年回顾<br>2014.09——2014.10<br>下乡放电影+支教+调研。完成大一下申请的希望工程激励行动(一个链接)的一个项目。活动中规中矩，没有达到预期。结识了一群小伙伴，一个小女友，缘起又缘灭。<br>2014.10——2015.01<br>进行学校内专业课基础课学习，第一次完成一门MOOC课程并拿到证书，买了MBP，开始接触iOS开发<br>2015.01——2015.03<br>回家过年，接触了普林斯顿的算法公开课，内容太多，并没有完成，腊月那段时间，家里做生意也比较忙，日子很快过去。<br>2015.03——2015.07<br>生病一次，回家一趟，耽误10多天，完成校内专业课学习，自学了编译原理(看的西安交大冯博琴的视频)，用python写了个非常简陋的编译器前端，放在了<a href="https://github.com/BigBugGrow/LittleComplier" target="_blank" rel="external">github</a>上。拿到3门MOOC课程证书，哈工大的计算机组成，计算机网络，和罗斯大学的python交互编程，很有意思，作业就是开发一些<a href="http://www.codeskulptor.org/#user40_yIb3zNkvFvBYIdi_5.py" target="_blank" rel="external">小游戏</a>(<a href="http://honx.in/_VaIYLc6vDy6Q4xC7" target="_blank" rel="external">翻墙</a>可用)，寓教于乐。收集考研相关信息，一直想考研，最终决定不考。<br>2015.07——至今<br>暑假回家10多天，本不打算回去，但以后可能回去的时间会更少。回去经历了一次突发事件——小镇的氮肥厂液氨泄露，连夜逃亡，继5.12地震之后，又一次身处新闻事件之中。正在进行的返校火车旅途中，经历火车头故障，火车晚点，耽误了转车，到达北京，听说了三里屯砍人事件，天津爆炸事件，正在前往的鞍山，锅炉起火。人生不易，且行且珍惜。</p>
+<p>当然这一年还有其他一些有意义的小事，但是很多东西不记录下来，记忆就模糊了。</p>
+<p>##转变<br>没有经过审视的人生是不值得一过的。人生是个终极命题，需要我们用一生去思考。这也是个没有标准答案的问题，价值观的多元，尊重他人，避免输出自己的价值观。还是那句话，参差多态才是幸福的本源嘛。<br>几个曾让我陷入深思的帖子<br>1.<a href="https://github.com/lifesinger/lifesinger.github.com/issues/149" target="_blank" rel="external">六个残酷的人生事实</a><br>2.<a href="http://www.zhihu.com/question/29759221/answer/55062331" target="_blank" rel="external">一个精英的诞生，家庭因素有多大？</a><br>3.<a href="http://www.zhihu.com/question/20052781/answer/57504579" target="_blank" rel="external">内向、不善社交的人如何建立人脉？</a><br>4.<a href="http://www.zhihu.com/question/27962530/answer/38815712" target="_blank" rel="external">如何更好的与父母沟通</a></p>
+<p>##专业学习<br>1.不得不说的<a href="http://baike.baidu.com/link?url=Q4xLyg1ZrRxlqcc--rnVsUuCNdZkE96Z22S9LXlQ58sdkAG2HHew95InCRF3IiZc6in5wytwJd5jbBfaEF9m-2qy20gP16bFDO3L7O6gXH3" target="_blank" rel="external">MOOC</a>（Massive Open Online Course）学习</p>
+<blockquote>
+<ul>
+<li>国外的平台：<br><a href="https://www.coursera.org/" target="_blank" rel="external">Coursera</a>,<a href="https://www.edx.org/" target="_blank" rel="external">edX</a>,<a href="https://www.udacity.com/" target="_blank" rel="external">Udacity</a></li>
+<li>国内的平台：<br>网易云课堂，学堂在线，中国大学MOOC，果壳学院</li>
+</ul>
+</blockquote>
+<p>2.iOS学习的一些资源</p>
+<blockquote>
+<ul>
+<li><a href="https://www.udacity.com/course/ios-developer-nanodegree--nd003" target="_blank" rel="external">Udacity上面的一套课程</a></li>
+<li><a href="https://github.com/BigBugGrow/trip-to-iOS" target="_blank" rel="external">github上iOS学习资源的整理</a></li>
+<li><a href="http://open.163.com/special/opencourse/ios8.html" target="_blank" rel="external">斯坦福白胡子老爷爷讲得iOS开发课</a></li>
+</ul>
+</blockquote>
+<p>3.其他资源</p>
+<blockquote>
+<ul>
+<li>git入门:<a href="http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000" target="_blank" rel="external">廖雪峰的git教程</a>或者<a href="http://git-scm.com/book/zh/v1" target="_blank" rel="external">Pro Git</a>这本书</li>
+</ul>
+</blockquote>
+<p>##考研or就业<br>没有最好的选择，只有适合自己的选择。每一个选择意味得到些什么，也意味着失去些什么。<br>附考研的一些资源(主要针对计算机考研)<br>1.一些机构的考研辅导视频: <a href="http://pan.baidu.com/s/1ntEc2DV" target="_blank" rel="external">http://pan.baidu.com/s/1ntEc2DV</a> 密码: dqw4(家底都拿出来了，收集了好久)<br>2.<a href="http://i.youku.com/u/UMzQyMjAxMDIw/playlists" target="_blank" rel="external">阿飞计算机考研讲座</a><br>3.<a href="http://www.cskaoyan.com/" target="_blank" rel="external">王道论坛</a>，<a href="http://www.csbiji.com/" target="_blank" rel="external">天勤论坛</a></p>
+<p>##后记<br>努力过，认真活。即便知道了所谓的人生真相，所谓阶级不可跨越性。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>##写在前面<br>似乎在每一个时间节点上，都想用文字记录点什么，证明这段岁月没有荒废,给自己一个交代。但尽管努力回顾，也发现并没有惊艳了岁月，笑，平凡而又平常。<br>为后来者，提供一些参考。这个世界所指向的趋势是无序，你的积累和整理，是对这个世界有益的贡献。</p>
+<]]>
+    </summary>
+    
+      <category term="岁月" scheme="http://www.dongan.me/tags/%E5%B2%81%E6%9C%88/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Hello,Mr Hexo]]></title>
