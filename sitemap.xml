@@ -2,8 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.dongan.me/2015/08/05/Hello-Mr-Hexo/</loc>
+    <lastmod>2015-08-20T11:33:35.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.dongan.me/2015/08/14/%E5%A4%A7%E4%BA%8C%E8%BF%99%E4%B8%80%E5%B9%B4/</loc>
-    <lastmod>2015-08-14T14:24:44.000Z</lastmod>
+    <lastmod>2015-08-20T11:32:32.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.dongan.me/instagram/index.html</loc>
+    <lastmod>2015-08-20T11:19:08.000Z</lastmod>
   </url>
   
   <url>
@@ -14,11 +24,6 @@
   <url>
     <loc>http://www.dongan.me/%E5%A4%A7%E4%BA%8C%E8%BF%99%E4%B8%80%E5%B9%B4/index.html</loc>
     <lastmod>2015-08-14T14:10:34.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.dongan.me/2015/08/05/Hello-Mr-Hexo/</loc>
-    <lastmod>2015-08-10T10:51:14.000Z</lastmod>
   </url>
   
   <url>
