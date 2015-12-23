@@ -48,8 +48,9 @@
     <link href="http://www.dongan.me/2015/10/10/Begin-iPhone-Development-with-Swift/"/>
     <id>http://www.dongan.me/2015/10/10/Begin-iPhone-Development-with-Swift/</id>
     <published>2015-10-10T05:12:48.000Z</published>
-    <updated>2015-12-23T09:35:45.000Z</updated>
-    <content type="html"><![CDATA[<a id="more"></a>
+    <updated>2015-12-23T09:37:25.000Z</updated>
+    <content type="html"><![CDATA[<p>好久都没有更新博客，要做一个持续输出有价值内容的人好难</p>
+<a id="more"></a>
 <p><img src="http://7xl8wi.com1.z0.glb.clouddn.com/1497856C8ED4D7413D839E6E81F027B7.png" alt="第一本完整读完的英文技术书籍"></p>
 <p>好久都没有更新博客，要做一个持续输出有价值内容的人好难。</p>
 <p>开学一个多月，除了上课，大部分时间都在研究iOS开发，探索苹果官方的SDK，学习iOS基础，跟着一些教程做一些Demo。</p>
@@ -67,9 +68,8 @@
 <h3 id="4-//_MARK:">4.// MARK:</h3><p>// MARK:-<br>// MARK: Picker Data Source Methods<br>以//开头的code，被视为批注，而已// MARK:开头的批注被Xcode特殊对待。在Xcode的editor pane的顶部的pop-up菜单中作为一个条目。第一行（有破折号）的作用是在pop-up中产生一个间隔行，第二行是一个描述性的头部<br>（待更新）</p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<a id="more"></a>
-<p><img src="http://7xl8wi.com1.z0.glb.clouddn.com/1497856C8ED4D7413D839E6E81F027B7.png" alt="第一本完整读完的英文技术书籍"></p>
-<p>好久都没]]>
+    <![CDATA[<p>好久都没有更新博客，要做一个持续输出有价值内容的人好难</p>]]>
+    
     </summary>
     
       <category term="Swift" scheme="http://www.dongan.me/tags/Swift/"/>
